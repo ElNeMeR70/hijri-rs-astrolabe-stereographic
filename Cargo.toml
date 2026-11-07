@@ -1,0 +1,10 @@
+[package]
+name = "hijri-rs-astrolabe-stereographic"
+version = "1.0.0"
+edition = "2021"
+description = "Planispheric Astrolabe Stereographic Projection (Safihah, Almucantars & Ankabout)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hijri_rs_astrolabe_stereographic"
+path = "main.rs"
